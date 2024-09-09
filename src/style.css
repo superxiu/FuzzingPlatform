@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'melete';
+  src: url('./assets/fonts/Melete.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Shrikhand';
+  src: url('./assets/fonts/Shrikhand.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PlaywriteCU-Regular';
+  src: url('./assets/fonts/PlaywriteCU-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'BowlbyOne-Regular';
+  src: url('./assets/fonts/BowlbyOne-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
